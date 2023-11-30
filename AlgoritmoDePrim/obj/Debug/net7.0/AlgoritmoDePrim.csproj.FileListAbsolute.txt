@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\bin\Debug\net7.0\AlgoritmoDePrim.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\bin\Debug\net7.0\AlgoritmoDePrim.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\bin\Debug\net7.0\AlgoritmoDePrim.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\bin\Debug\net7.0\AlgoritmoDePrim.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\bin\Debug\net7.0\AlgoritmoDePrim.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\refint\AlgoritmoDePrim.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\AlgoritmoDePrim.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDePrim\obj\Debug\net7.0\ref\AlgoritmoDePrim.dll

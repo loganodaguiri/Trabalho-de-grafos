@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\bin\Debug\net7.0\BuscaEmLargura.exe
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\bin\Debug\net7.0\BuscaEmLargura.deps.json
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\bin\Debug\net7.0\BuscaEmLargura.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\bin\Debug\net7.0\BuscaEmLargura.dll
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\bin\Debug\net7.0\BuscaEmLargura.pdb
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.dll
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\refint\BuscaEmLargura.dll
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.pdb
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\BuscaEmLargura.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\BuscaEmLargura\obj\Debug\net7.0\ref\BuscaEmLargura.dll

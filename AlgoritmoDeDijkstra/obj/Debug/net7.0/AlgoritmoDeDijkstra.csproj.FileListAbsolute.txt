@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\bin\Debug\net7.0\AlgoritmoDeDijkstra.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\bin\Debug\net7.0\AlgoritmoDeDijkstra.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\bin\Debug\net7.0\AlgoritmoDeDijkstra.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\bin\Debug\net7.0\AlgoritmoDeDijkstra.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\bin\Debug\net7.0\AlgoritmoDeDijkstra.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\refint\AlgoritmoDeDijkstra.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\AlgoritmoDeDijkstra.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeDijkstra\obj\Debug\net7.0\ref\AlgoritmoDeDijkstra.dll

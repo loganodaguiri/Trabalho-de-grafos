@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\bin\Debug\net7.0\FlorestaDeCaminhosOtimos.exe
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\bin\Debug\net7.0\FlorestaDeCaminhosOtimos.deps.json
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\bin\Debug\net7.0\FlorestaDeCaminhosOtimos.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\bin\Debug\net7.0\FlorestaDeCaminhosOtimos.dll
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\bin\Debug\net7.0\FlorestaDeCaminhosOtimos.pdb
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.dll
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\refint\FlorestaDeCaminhosOtimos.dll
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.pdb
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\FlorestaDeCaminhosOtimos.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\FlorestaDeCaminhosOtimos\obj\Debug\net7.0\ref\FlorestaDeCaminhosOtimos.dll

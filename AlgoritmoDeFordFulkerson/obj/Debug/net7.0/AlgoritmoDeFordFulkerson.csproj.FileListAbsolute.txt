@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\bin\Debug\net7.0\AlgoritmoDeFordFulkerson.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\bin\Debug\net7.0\AlgoritmoDeFordFulkerson.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\bin\Debug\net7.0\AlgoritmoDeFordFulkerson.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\bin\Debug\net7.0\AlgoritmoDeFordFulkerson.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\bin\Debug\net7.0\AlgoritmoDeFordFulkerson.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\refint\AlgoritmoDeFordFulkerson.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\AlgoritmoDeFordFulkerson.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFordFulkerson\obj\Debug\net7.0\ref\AlgoritmoDeFordFulkerson.dll

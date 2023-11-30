@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\bin\Debug\net7.0\AlgoritmoDeWelshPowell.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\bin\Debug\net7.0\AlgoritmoDeWelshPowell.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\bin\Debug\net7.0\AlgoritmoDeWelshPowell.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\bin\Debug\net7.0\AlgoritmoDeWelshPowell.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\bin\Debug\net7.0\AlgoritmoDeWelshPowell.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\refint\AlgoritmoDeWelshPowell.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\AlgoritmoDeWelshPowell.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeWelshPowell\obj\Debug\net7.0\ref\AlgoritmoDeWelshPowell.dll

@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\bin\Debug\net7.0\OrdenacaoTopologica.exe
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\bin\Debug\net7.0\OrdenacaoTopologica.deps.json
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\bin\Debug\net7.0\OrdenacaoTopologica.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\bin\Debug\net7.0\OrdenacaoTopologica.dll
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\bin\Debug\net7.0\OrdenacaoTopologica.pdb
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.dll
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\refint\OrdenacaoTopologica.dll
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.pdb
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\OrdenacaoTopologica.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\OrdenacaoTopologica\obj\Debug\net7.0\ref\OrdenacaoTopologica.dll

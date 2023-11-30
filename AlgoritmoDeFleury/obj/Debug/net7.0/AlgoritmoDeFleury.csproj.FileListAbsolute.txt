@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\bin\Debug\net7.0\AlgoritmoDeFleury.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\bin\Debug\net7.0\AlgoritmoDeFleury.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\bin\Debug\net7.0\AlgoritmoDeFleury.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\bin\Debug\net7.0\AlgoritmoDeFleury.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\bin\Debug\net7.0\AlgoritmoDeFleury.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\refint\AlgoritmoDeFleury.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\AlgoritmoDeFleury.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFleury\obj\Debug\net7.0\ref\AlgoritmoDeFleury.dll

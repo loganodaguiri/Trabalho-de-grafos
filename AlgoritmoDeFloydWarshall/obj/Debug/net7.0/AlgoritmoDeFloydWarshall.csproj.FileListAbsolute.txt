@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\bin\Debug\net7.0\AlgoritmoDeFloydWarshall.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\bin\Debug\net7.0\AlgoritmoDeFloydWarshall.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\bin\Debug\net7.0\AlgoritmoDeFloydWarshall.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\bin\Debug\net7.0\AlgoritmoDeFloydWarshall.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\bin\Debug\net7.0\AlgoritmoDeFloydWarshall.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\refint\AlgoritmoDeFloydWarshall.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\AlgoritmoDeFloydWarshall.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeFloydWarshall\obj\Debug\net7.0\ref\AlgoritmoDeFloydWarshall.dll

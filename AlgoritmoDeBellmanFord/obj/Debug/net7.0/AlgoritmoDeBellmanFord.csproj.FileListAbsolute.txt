@@ -1,0 +1,15 @@
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\bin\Debug\net7.0\AlgoritmoDeBellmanFord.exe
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\bin\Debug\net7.0\AlgoritmoDeBellmanFord.deps.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\bin\Debug\net7.0\AlgoritmoDeBellmanFord.runtimeconfig.json
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\bin\Debug\net7.0\AlgoritmoDeBellmanFord.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\bin\Debug\net7.0\AlgoritmoDeBellmanFord.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.csproj.AssemblyReference.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.AssemblyInfoInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.AssemblyInfo.cs
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\refint\AlgoritmoDeBellmanFord.dll
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.pdb
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\AlgoritmoDeBellmanFord.genruntimeconfig.cache
+C:\Users\logan\TrabalhoGrafos2\AlgoritmoDeBellmanFord\obj\Debug\net7.0\ref\AlgoritmoDeBellmanFord.dll
